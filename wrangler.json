@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "purple-salad-0bb8",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "60247312-b237-4b20-ab2c-ffb723540610",
+      "database_name": "mock-comments-db-us"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
